@@ -23,7 +23,7 @@ This is a template built using TypeScript and the discord.js v14.14 library. The
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/discord-bot.git
+    git clone https://github.com/rmcc3/discord-bot-template.git
     ```
 
 2. Navigate to the project directory:
