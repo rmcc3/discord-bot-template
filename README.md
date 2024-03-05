@@ -104,7 +104,7 @@ To create a new extension, follow these steps:
         "description": "A brief description of the extension"
     }
     ```
-   **Note:** Extension metadata is not currently used by the bot, but it may be used in the future for an extension manager. However, it is a required file to load the extension. All fields are current placeholders and can be modified to your liking.
+   **Note:** Extension metadata is not currently used by the bot, but it may be used in the future for an extension manager. However, it is a required file to load the extension. All fields are currently placeholders and can be modified to your liking.
 
 3. Create `commands/` and `events/` directories inside your extension directory to store command and event files, respectively.
 4. Implement your commands and events in separate files within the respective directories. Follow the existing command and event file structure and naming conventions.
@@ -114,4 +114,4 @@ To create a new extension, follow these steps:
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 ## License
-This project is licensed under the CC BY-SA 4.0 license. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the CC BY-SA 4.0 license. See the [LICENSE](LICENSE.md) file for details.
