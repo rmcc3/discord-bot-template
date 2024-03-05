@@ -29,7 +29,7 @@ This is a template built using TypeScript and the discord.js v14.14 library. The
 2. Navigate to the project directory:
 
     ```bash
-   cd discord-bot
+   cd discord-bot-template
     ```
    
 3. Install the dependencies:
