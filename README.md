@@ -1,6 +1,6 @@
 # Discord Bot Template with TypeScript
 
-This is a template built using TypeScript and the discord.js v14.14 library. The bot provides a starting point for developers and supports multiple Discord servers (guilds) reliably.
+This is a template built using TypeScript and the discord.js v14.14 library. The template provides a starting point for developers and supports multiple Discord servers (guilds) reliably.
 
 ## Features
 
