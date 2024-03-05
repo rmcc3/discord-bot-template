@@ -83,10 +83,10 @@ The bots configuration is stored in the `src/config.ts` file. You can modify the
     * `commands/`: Built-in command files 
     * `events/`: Built-in event files 
     * `utils/`: Utility functions and classes
-* `config.ts`: Bot configuration
-* `database.ts`: Database connection and setup
-* `extensionLoader.ts`: Loads commands and events from internal and external sources
-* `index.ts`: Entry point of the bot
+    * `config.ts`: Bot configuration
+    * `database.ts`: Database connection and setup
+    * `extensionLoader.ts`: Loads commands and events from internal and external sources
+    * `index.ts`: Entry point of the bot
 
 ## Creating Extensions
 
